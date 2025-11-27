@@ -2,7 +2,7 @@ import React from 'react';
 import { FaPhone, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
 import Button from '../components/ui/Button';
 import Card from '../components/ui/Card';
-import aboutUs from '../assets/images/aboutus.png'
+import aboutUs from '../assets/images/aboutUs.png'
 
 const Contact = () => {
   return (

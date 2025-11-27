@@ -2,7 +2,7 @@ import React from 'react';
 import { FaCheck } from 'react-icons/fa';
 import Button from '../components/ui/Button';
 import Card from '../components/ui/Card';
-import aboutUs from '../assets/images/aboutus.png'
+import aboutUs from '../assets/images/aboutUs.png'
 
 const Pricing = () => {
   const plans = [

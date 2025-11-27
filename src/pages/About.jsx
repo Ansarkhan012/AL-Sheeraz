@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaUsers, FaGlobe, FaBookOpen } from 'react-icons/fa';
 import Card from '../components/ui/Card';
-import aboutUs from '../assets/images/aboutus.png'
+import aboutUs from '../assets/images/aboutUs.png'
 
 const About = () => {
   return (

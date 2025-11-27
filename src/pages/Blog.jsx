@@ -1,6 +1,6 @@
 import React from "react";
 import { FaSearch, FaTag, FaUser, FaCalendar } from "react-icons/fa";
-import blogBanner from "../assets/images/aboutus.png";
+import blogBanner from "../assets/images/aboutUs.png";
 import kid from "../assets/images/Important.jpg";
 import online from "../assets/images/online.jpg";
 import tajweed from "../assets/images/tajweed.jpg";
